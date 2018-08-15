@@ -23,7 +23,7 @@ HINT: From ```screen``` object:
 5. The site visitor's screen: Color Depth
 6. The site visitor's screen: Pixel Depth
 
-### To Customize the User's experience and to enforce security measures, you need to understand how to sniff out additional details regarding the source locations/protocols that fed into the document you are presenting to a User. Again, you should use and all technical details available.
+### To Customize the User's experience and to enforce security measures, you need to understand how to sniff out additional details regarding the source locations/protocols that fed into the document you are presenting to a User. Again, you should use all technical details available.
 
 HINT: From ```document``` object:
 
